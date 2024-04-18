@@ -15,7 +15,7 @@ section{
     display:flex;
     flex-direction:column;
     justify-content:flex-start;
-    background:url(./images/night-3078326_640.jpg);  
+    background:url(./night-3078326_640.jpg);  
     background-size:cover;
     background-position: center;    
 }
